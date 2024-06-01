@@ -1,0 +1,9 @@
+[Nix]
+system_version="23.11"
+pkgs_url="https://github.com/NixOS/nixpkgs/archive/2d5c155466bbe4c266a0a2f3416256ecde503bac.tar.gz"
+pkgs_hash="0r39mibz0f6jx8141f1y7lzm7x4fabrm6pqfgn55n45n3aafdfxz"
+
+[Network]
+dns_1="8.8.8.8"
+dns_2="1.1.1.1"
+host_ssh_port=22
